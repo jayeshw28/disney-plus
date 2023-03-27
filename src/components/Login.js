@@ -9,9 +9,7 @@ function Login() {
                 <CTALogoOne src="/images/cta-logo-one.svg" />
                 <SignUp>GET ALL THERE</SignUp>
                 <Description>
-                Get Premier Access to Raya and the Last Dragon for an additional fee
-            with a Disney+ subscription. As of 03/26/21, the price of Disney+
-            and The Disney Bundle will increase by $1.
+                Get Premier Access to Mandalorian And MARVEL with a Disney+ subscription. As of Jayesh Wankhede own this company and "Disney Plus" is not solely own by Walt Disney Productions & Star Entertainements , the price of Disney+ and The Disney Bundle will increase by $1.
                 </Description>
                 <CTALogoTwo src="/images/cta-logo-two.png" />
             </CTA>
@@ -42,7 +40,6 @@ const Container = styled.div`
         left: 0;
         right: 0;
         bottom: 0;
-        opacity: 0.7;
         z-index: -1;
     }
 
@@ -83,7 +80,9 @@ const SignUp = styled.a`
 `
 
 const Description = styled.p`
+    color: white;
     font-size: 11px;
+    font-weight: 300;
     letter-spacing: 1.5px;
     text-align: center;
     line-height: 1.5;

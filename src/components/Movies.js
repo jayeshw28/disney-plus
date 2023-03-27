@@ -39,6 +39,9 @@ function Movies() {
 export default Movies
 
 const Container = styled.div`
+    h4{
+        color: white;
+    }
 
 `
 
